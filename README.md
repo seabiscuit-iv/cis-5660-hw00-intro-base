@@ -1,3 +1,9 @@
+# Homework 0: Saahil Gupta
+
+For my noise shader, I simply altered the color of the shape based on Perlin Noise. For my vertex shader, I decided to make a simple beating heart by running the ticks through a pulse mapping function, which then scales the sphere:
+
+<img width="1322" height="1036" alt="image" src="https://github.com/user-attachments/assets/30b63873-611f-4f2f-b1a9-427f987519ed" />
+
 # HW 0: Intro to Javascript and WebGL
 
 <p align="center">
